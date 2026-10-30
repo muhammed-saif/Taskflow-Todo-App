@@ -1,0 +1,24 @@
+.todo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #111;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 5px 0px;
+}
+.todo .title {
+    font-size: 22px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.todo .desc {
+        font-size: 14px;
+}
+.todo .btn {
+    background: transparent;
+    border: none;
+}
+.todo .btn:hover {
+    transform: scale(1.2);
+}

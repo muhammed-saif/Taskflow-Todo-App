@@ -1,0 +1,54 @@
+.form_field {
+    position: relative;
+    min-width: 600px;
+    background: #262626;
+    margin: 10px 0;
+    padding: 20px;
+    color: #ffffff;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+}
+.form_field .title {
+    position: absolute;
+    right: 20px;
+    width: 70%;
+    /* height: 30px; */
+    border-radius: 20px;
+    outline: none;
+    padding: 10px 17px;
+    font-size: 13px;
+}
+
+.form_field .desc {
+    position: absolute;
+    right: 20px;
+    width: 70%;
+    height: 40px;
+    border-radius: 40px;
+    outline: none;
+    padding: 0px 10px;
+    font-size: 13px;
+    padding: 6px 17px;
+}
+.form_field .submit {
+    width: 278px;
+    margin: 0 auto;
+    color: #000;
+    /* background: #d6e221; */
+    font-size: 15px;
+    border-radius: 20px;
+    padding: 2px 0;
+    border: none;
+    outline: none;
+}
+.form_field .submit:disabled{
+    background: #6d6d6d
+}
+.form_field .submit:hover{
+    background-color: #e9de0c;
+}
+.form_field .submit:disabled:hover{
+    background-color: #6d6d6d;
+}

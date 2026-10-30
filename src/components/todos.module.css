@@ -1,0 +1,9 @@
+.todosContainer {
+    min-width: 600px;
+    min-height: 500px;
+    background: #262626;
+    color: #ffffff;
+    border-radius: 20px;
+    padding: 20px;
+    overflow: scroll;
+}

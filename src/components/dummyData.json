@@ -1,0 +1,21 @@
+
+[
+    { "id": "b2c7d480-9a64-4b2f-ae4e-4451b2e6f1a5",
+      "newTodo": {
+        "title": "Morning",
+        "desc": "Wake up at 8 AM"
+    }},
+    {  "id": "c158c3b7-bdd2-4d98-b9d7-5b7b6dbe4971",
+      "newTodo": {
+        "title": "Night",
+        "desc":"Go to sleep at 11 PM"
+    }
+  }
+  ,
+    {  "id": "c18823b4-bdd2-4f68-n0d7-5h7b6kbe8462",
+      "newTodo": {
+        "title": "Mid Night",
+        "desc":"Enjoy to seeing hollywood Movie"
+    }
+  }
+]
